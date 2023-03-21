@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arwajkhan/react-frontend/static/css/main.80459135.css",
+    "main.js": "/arwajkhan/react-frontend/static/js/main.25f62850.js",
+    "index.html": "/arwajkhan/react-frontend/index.html",
+    "main.80459135.css.map": "/arwajkhan/react-frontend/static/css/main.80459135.css.map",
+    "main.25f62850.js.map": "/arwajkhan/react-frontend/static/js/main.25f62850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80459135.css",
+    "static/js/main.25f62850.js"
+  ]
+}
